@@ -1,0 +1,11 @@
+.idea
+*.pickle
+.*checkpoints.*
+.*model$
+logs
+deep_learning/kaggle*
+deep_learning/models/
+532/unit*
+532/final\ project/past*
+*.hdf5
+*.pdf
